@@ -3,7 +3,7 @@
 **Software Engineering Student | AI Enthusiast | Passionate About Data Science**  
 📍 Based in **El Mourouj, Tunis**  
 🎓 Studying at **ESPRIT**  
-🧪 Data Science Intern at **Preventis**, Sfax  
+🧪 Data Analyst Intern at **Preventis**, Sfax  
 
 ---
 
